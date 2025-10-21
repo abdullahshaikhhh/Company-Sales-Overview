@@ -70,7 +70,7 @@ Provides a side-by-side comparison of forecasted and actual revenue and profit f
 
 ## 🛠 Tools and Technologies Used
 
-* **Power BI / SAP Analytics Cloud (SAC)** – For creating interactive visual dashboards.
+*  **SAP Analytics Cloud (SAC)** – For creating interactive visual dashboards.
 * **Excel / CSV Dataset** – For data cleaning and preprocessing.
 * **DAX Measures** – Used for calculating KPIs such as Revenue, Profit, and Quantity.
 
